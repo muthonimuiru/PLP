@@ -1,0 +1,5 @@
+name= input('Type your name:')
+age= input('Type your age:')
+location=input('Type your location:')
+print('Hello', name ,'You are', age,'and live in', location)
+print('type:',type(name))
